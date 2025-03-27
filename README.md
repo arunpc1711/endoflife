@@ -32,7 +32,7 @@ pip install requests
 Simply run the script:
 
 ```bash
-python eol_catalog_creator.py
+python Downloading-EndOfLife-JSONL.py
 ```
 
 The script will:
