@@ -18,8 +18,8 @@ This Python script creates a catalog of end-of-life software by collecting data 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/eol-software-catalog.git
-cd eol-software-catalog
+git clone https://github.com/arunpc1711/endoflife.git
+cd endoflife
 ```
 
 2. Install required packages:
