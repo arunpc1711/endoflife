@@ -1,6 +1,6 @@
 # End of Life Software Catalog Creator
 
-This Python script creates a comprehensive catalog of end-of-life software by collecting data from [endoflife.date](https://endoflife.date) API. The data is downloaded and stored in JSONL (JSON Lines) format, making it suitable for analysis, tracking, and integration with data processing tools.
+This Python script creates a catalog of end-of-life software by collecting data from [endoflife.date](https://endoflife.date) API. The data is downloaded and stored in JSONL (JSON Lines) format, making it suitable for analysis, tracking, and integration with data processing tools. While the data is not exhaustive, this could be a good start to creating a catalog.
 
 ## Features
 
