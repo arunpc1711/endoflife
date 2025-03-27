@@ -4,14 +4,14 @@ This Python script creates a catalog of end-of-life software by collecting data 
 
 ## Features
 
-- Fetches a complete list of software products from the endoflife.date API
-- Retrieves detailed end-of-life information for each product
+- Fetches a list of software products from the endoflife.date API
+- Retrieves end-of-life information for each product
 - Exports data in JSONL format, optimized for AWS Glue and other data processing services
 - Adds product name to each record for easy identification and filtering
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.9+
 - `requests` library
 
 ## Installation
